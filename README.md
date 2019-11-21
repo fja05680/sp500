@@ -10,3 +10,4 @@
 
 - `sp500.ipynb`: retrieves current S&P 500 composition from Wikipedia and outputs 'sp500.csv'
 - `sp500_historical.ipynb`: updates the original `S&P 500 Historical Components & Changes.csv` and outputs `S&P 500 Historical Components & Changes(MM-DD-YYYY).csv`
+- `sp500_by_date.ipynb`: example demonstrates how to retrive a snap shot of the S&P 500 components on a certain date.  Also lists the symbols that have been added and removed from that date to the present.
