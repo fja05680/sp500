@@ -99,7 +99,6 @@ CBRE,CBRE Group,reports,Real Estate,Real Estate Services,"Los Angeles, Californi
 CBS,CBS Corp.,reports,Communication Services,Broadcasting,"New York, New York",1994-09-01,813828,2006
 CDW,CDW,reports,Information Technology,Technology Distributors,"Lincolnshire, Illinois",2019-09-23,1402057,1984
 CE,Celanese,reports,Materials,Specialty Chemicals,"Irving, Texas",2018-12-24,1306830,
-CELG,Celgene Corp.,reports,Health Care,Biotechnology,"Summit, New Jersey",2006-11-06,816284,
 CNC,Centene Corporation,reports,Health Care,Managed Health Care,"St Louis, Missouri",2016-03-30,1071739,
 CNP,CenterPoint Energy,reports,Utilities,Multi-Utilities,"Houston, Texas",1985-07-31,1130310,
 CTL,CenturyLink Inc,reports,Communication Services,Integrated Telecommunication Services,"Monroe, Louisiana",1999-03-25,18926,
@@ -411,20 +410,21 @@ ROL,Rollins Inc.,reports,Industrials,Environmental & Facilities Services,"Atlant
 ROP,Roper Technologies,reports,Industrials,Industrial Conglomerates,"Sarasota, Florida",2009-12-23,882835,
 ROST,Ross Stores,reports,Consumer Discretionary,Apparel Retail,"Pleasanton, California",2009-12-21,745732,
 RCL,Royal Caribbean Cruises Ltd,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2014-12-05,884887,
+SPGI,"S&P Global, Inc.",reports,Financials,Financial Exchanges & Data,"New York, New York",,64040,
 CRM,Salesforce.com,reports,Information Technology,Application Software,"San Francisco, California",2008-09-15,1108524,
 SBAC,SBA Communications,reports,Real Estate,Specialized REITs,"Boca Raton, Florida",2017-09-01,1034054,
 SLB,Schlumberger Ltd.,reports,Energy,Oil & Gas Equipment & Services,"Curaçao, Kingdom of the Netherlands",1965-03-31,87347,1926
 STX,Seagate Technology,reports,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",2012-07-02,1137789,
 SEE,Sealed Air,reports,Materials,Paper Packaging,"Elmwood Park, New Jersey",,1012100,
 SRE,Sempra Energy,reports,Utilities,Multi-Utilities,"San Diego, California",,1032208,
+NOW,ServiceNow,reports,Information Technology,Application Software,"Santa Clara, California",2019-11-19,1373715,2003
 SHW,Sherwin-Williams,reports,Materials,Specialty Chemicals,"Cleveland, Ohio",1964-06-30,89800,1866
-SPG,Simon Property Group Inc,reports,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-06-26,1063761,
+SPG,Simon Property Group Inc,reports,Real Estate,Retail REITs,"Indianapolis, Indiana",2002-06-26,1063761,2003
 SWKS,Skyworks Solutions,reports,Information Technology,Semiconductors,"Woburn, Massachusetts",2015-03-12,4127,
 SLG,SL Green Realty,reports,Real Estate,Office REITs,"New York, New York",2015-03-20,1040971,
 SNA,Snap-on,reports,Industrials,Industrial Machinery,"Kenosha, Wisconsin",1982-09-30,91440,1920
 SO,Southern Co.,reports,Utilities,Electric Utilities,"Atlanta, Georgia",,92122,
 LUV,Southwest Airlines,reports,Industrials,Airlines,"Dallas, Texas",1994-07-01,92380,
-SPGI,"S&P Global, Inc.",reports,Financials,Financial Exchanges & Data,"New York, New York",,64040,
 SWK,Stanley Black & Decker,reports,Industrials,Industrial Machinery,"New Britain, Connecticut",1982-09-30,93556,
 SBUX,Starbucks Corp.,reports,Consumer Discretionary,Restaurants,"Seattle, Washington",,829224,1971
 STT,State Street Corp.,reports,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",,93751,
