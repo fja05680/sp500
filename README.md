@@ -6,7 +6,7 @@
 
 ### Description of Files
 
-- `S&P 500 Historical Components & Changes(04-20-2020).csv`: contains historical S&P 500 index membership from 1996 til 04-20-2020.  Output from 'sp500_historical.ipynb' 
+- `S&P 500 Historical Components & Changes(08-23-2020).csv`: contains historical S&P 500 index membership from 1996 til 08-23-2020.  Output from 'sp500_historical.ipynb' 
 - `S&P 500 Historical Components & Changes.csv`: original historical S&P 500 index membership csv file.  Input to 'sp500_historical.ipynb'
 - `sp500_changes_since_2019.csv`: S&P 500 composition changes since 2019.  Input to 'sp500_historical.ipynb'
 - `sp500.csv`: composition of S&P 500.  Output from 'sp500.ipynb'.  Input to 'sp500_historical.ipynb'
