@@ -28,7 +28,7 @@
 (5) It's generally not the case that there are exactly 500 stocks in the S&P 500. As of 05-05-2021, there are 505. Sometimes there may be a few less than 500 because of the timing of additions/removals to/from the index. There are 487 symbols in the first row. This is part of the original list I got from Andreas Clenow with only data cleaning and removal of duplicates (which I verified doesn't remove any unique symbols). I feel like there may be some missing symbols for those first 5 years, but I have no way to independently check it. The number of symbols seems to slowly increase moving forward in time. On 2001-01-16 there are 494 symbols and it never falls below that number again. If this is a concern (not close enough to 500), perhaps just don't use the first ~5 years of data. That still gives you over 20 years beginning in 2001.
 
 Here are the some statistics for all the rows as of 05-05-2021  
-`
+```
 count  2595    (number of rows)  
 mean   496.44  (number of symbols)  
 std    5.04  
@@ -37,4 +37,4 @@ min    487
 50%    497  
 75%    499  
 max    507
-`
+```
