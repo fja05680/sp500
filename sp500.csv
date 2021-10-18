@@ -36,8 +36,8 @@ AMP,Ameriprise Financial,reports,Financials,Asset Management & Custody Banks,"Mi
 ABC,AmerisourceBergen,reports,Health Care,Health Care Distributors,"Chesterbrook, Pennsylvania",2001-08-30,1140859,1985
 AME,Ametek,reports,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",2013-09-23,1037868,1930
 AMGN,Amgen,reports,Health Care,Biotechnology,"Thousand Oaks, California",1992-01-02,318154,1980
-APH,Amphenol Corp,reports,Information Technology,Electronic Components,"Wallingford, Connecticut",2008-09-30,820313,1932
-ADI,Analog Devices,reports,Information Technology,Semiconductors,"Norwood, Massachusetts",1999-10-12,6281,1965
+APH,Amphenol,reports,Information Technology,Electronic Components,"Wallingford, Connecticut",2008-09-30,820313,1932
+ADI,Analog Devices,reports,Information Technology,Semiconductors,"Wilmington, Massachusetts",1999-10-12,6281,1965
 ANSS,Ansys,reports,Information Technology,Application Software,"Canonsburg, Pennsylvania",2017-06-19,1013462,1969
 ANTM,Anthem,reports,Health Care,Managed Health Care,"Indianapolis, Indiana",2002-07-25,1156039,2014 (1946)
 AON,Aon,reports,Financials,Insurance Brokers,"London, UK",1996-04-23,315293,1982 (1919)
@@ -60,25 +60,27 @@ AVY,Avery Dennison,reports,Materials,Paper Packaging,"Glendale, California",1987
 BKR,Baker Hughes,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017-07-07,1701605,2017
 BLL,Ball Corp,reports,Materials,Metal & Glass Containers,"Broomfield, Colorado",1984-10-31,9389,1880
 BAC,Bank of America,reports,Financials,Diversified Banks,"Charlotte, North Carolina",1976-06-30,70858,1998 (1923 / 1874)
-BK,BNY Mellon,reports,Financials,Asset Management & Custody Banks,"New York City, New York",1995-03-31,1390777,1784
+BBWI,"Bath & Body Works, Inc.",reports,Consumer Discretionary,Specialty Stores,"Columbus, Ohio",1983-09-30,701985,1963
 BAX,Baxter International,reports,Health Care,Health Care Equipment,"Deerfield, Illinois",1972-09-30,10456,1931
 BDX,Becton Dickinson,reports,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1972-09-30,10795,1897
-BRK-B,Berkshire Hathaway,reports,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,1067983,1839
+BRK.B,Berkshire Hathaway,reports,Financials,Multi-Sector Holdings,"Omaha, Nebraska",2010-02-16,1067983,1839
 BBY,Best Buy,reports,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1999-06-29,764478,1966
 BIO,Bio-Rad Laboratories,reports,Health Care,Life Sciences Tools & Services,"Hercules, California",2020-06-22,12208,1952
+TECH,Bio-Techne,reports,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",2021-08-30,842023,1976
 BIIB,Biogen,reports,Health Care,Biotechnology,"Cambridge, Massachusetts",2003-11-13,875045,1978
 BLK,BlackRock,reports,Financials,Asset Management & Custody Banks,"New York City, New York",2011-04-04,1364742,1988
-BA,Boeing Company,reports,Industrials,Aerospace & Defense,"Chicago, Illinois",1957-03-04,12927,1916
+BK,BNY Mellon,reports,Financials,Asset Management & Custody Banks,"New York City, New York",1995-03-31,1390777,1784
+BA,Boeing,reports,Industrials,Aerospace & Defense,"Chicago, Illinois",1957-03-04,12927,1916
 BKNG,Booking Holdings,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Norwalk, Connecticut",2009-11-06,1075531,1996
 BWA,BorgWarner,reports,Consumer Discretionary,Auto Parts & Equipment,"Auburn Hills, Michigan",2011-12-19,908255,1880
 BXP,Boston Properties,reports,Real Estate,Office REITs,"Boston, Massachusetts",2006-04-03,1037540,1970
 BSX,Boston Scientific,reports,Health Care,Health Care Equipment,"Marlborough, Massachusetts[4]",1995-02-24,885725,1979
-BMY,Bristol-Myers Squibb,reports,Health Care,Health Care Distributors,"New York City, New York",1957-03-04,14272,1989
+BMY,Bristol Myers Squibb,reports,Health Care,Health Care Distributors,"New York City, New York",1957-03-04,14272,1989
 AVGO,Broadcom,reports,Information Technology,Semiconductors,"San Jose, California",2014-05-08,1730168,1961
 BR,Broadridge Financial Solutions,reports,Information Technology,Data Processing & Outsourced Services,"Lake Success, New York",2018-06-18,1383312,1962
+BRO,Brown & Brown,reports,Financials,Insurance Brokers,"Daytona Beach, Florida",2021-09-20,79282,1939
 BF.B,Brown–Forman,reports,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1982-10-31,14693,1870
 CHRW,C. H. Robinson,reports,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
-COG,Cabot Oil & Gas,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,858470,1989
 CDNS,Cadence Design Systems,reports,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
 CZR,Caesars Entertainment,reports,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",2021-03-22,1590895,1973
 CPB,Campbell Soup,reports,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
@@ -95,6 +97,7 @@ CDW,CDW,reports,Information Technology,Technology Distributors,"Lincolnshire, Il
 CE,Celanese,reports,Materials,Specialty Chemicals,"Irving, Texas",2018-12-24,1306830,1918
 CNC,Centene Corporation,reports,Health Care,Managed Health Care,"St. Louis, Missouri",2016-03-30,1071739,1984
 CNP,CenterPoint Energy,reports,Utilities,Multi-Utilities,"Houston, Texas",1985-07-31,1130310,1882
+CDAY,Ceridian,reports,Information Technology,Application Software,"Minneapolis, Minnesota",2021-09-20,1725057,1992
 CERN,Cerner,reports,Health Care,Health Care Technology,"North Kansas City, Missouri",2010-04-30,804753,1979
 CF,CF Industries,reports,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",2008-08-27,1324404,1946
 CRL,Charles River Laboratories,reports,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",2021-05-14,1100682,1947
@@ -128,6 +131,7 @@ CPRT,Copart,reports,Industrials,Diversified Support Services,"Dallas, Texas",201
 GLW,Corning,reports,Information Technology,Electronic Components,"Corning, New York",,24741,1851
 CTVA,Corteva,reports,Materials,Fertilizers & Agricultural Chemicals,"Wilmington, Delaware",2019-06-03,1755672,2019
 COST,Costco,reports,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",1993-10-01,909832,1976
+CTRA,Coterra,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,858470,2021 (1989)
 CCI,Crown Castle,reports,Real Estate,Specialized REITs,"Houston, Texas",2012-03-14,1051470,1994
 CSX,CSX,reports,Industrials,Railroads,"Jacksonville, Florida",1967-09-30,277948,1980
 CMI,Cummins,reports,Industrials,Industrial Machinery,"Columbus, Indiana",1965-03-31,26172,1919
@@ -174,7 +178,7 @@ EQIX,Equinix,reports,Real Estate,Specialized REITs,"Redwood City, California",20
 EQR,Equity Residential,reports,Real Estate,Residential REITs,"Chicago, Illinois",2001-12-03,906107,1969
 ESS,Essex Property Trust,reports,Real Estate,Residential REITs,"San Mateo, California",2014-04-02,920522,1971
 EL,Estée Lauder Companies,reports,Consumer Staples,Personal Products,"New York City, New York",2006-01-05,1001250,1946
-ETSY,Etsy,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"Brooklyn, New York",2020-09-21,1370637,2005
+ETSY,Etsy,reports,Consumer Discretionary,Internet & Direct Marketing Retail,"New York City, New York",2020-09-21,1370637,2005
 EVRG,Evergy,reports,Utilities,Electric Utilities,"Kansas City, Missouri",2018-06-05,1711269,1909
 ES,Eversource Energy,reports,Utilities,Multi-Utilities,"Hartford, Connecticut",,72741,1966
 RE,Everest Re,reports,Financials,Reinsurance,"Hamilton, Bermuda",2017-06-19,1095073,1973
@@ -275,7 +279,6 @@ KMI,Kinder Morgan,reports,Energy,Oil & Gas Storage & Transportation,"Houston, Te
 KLAC,KLA Corporation,reports,Information Technology,Semiconductor Equipment,"Milpitas, California",,319201,1975/1977 (1997)
 KHC,Kraft Heinz,reports,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",2015-07-06,1637459,2015 (1869)
 KR,Kroger,reports,Consumer Staples,Food Retail,"Cincinnati, Ohio",1957-03-04,56873,1883
-BBWI,L Brands,reports,Consumer Discretionary,Apparel Retail,"Columbus, Ohio",1983-09-30,701985,1963
 LHX,L3Harris Technologies,reports,Industrials,Aerospace & Defense,"Melbourne, Florida",2008-09-22,202058,2019 (1895)
 LH,LabCorp,reports,Health Care,Health Care Services,"Burlington, North Carolina",2004-11-01,920148,1978
 LRCX,Lam Research,reports,Information Technology,Semiconductor Equipment,"Fremont, California",2012-06-29,707549,1980
@@ -303,8 +306,8 @@ MMC,Marsh & McLennan,reports,Financials,Insurance Brokers,"New York City, New Yo
 MLM,Martin Marietta Materials,reports,Materials,Construction Materials,"Raleigh, North Carolina",2014-07-02,916076,1993
 MAS,Masco,reports,Industrials,Building Products,"Livonia, Michigan",1981-06-30,62996,1929
 MA,Mastercard,reports,Information Technology,Data Processing & Outsourced Services,"Harrison, New York",2008-07-18,1141391,1966
+MTCH,Match Group,reports,Communication Services,Interactive Media & Services,"Dallas, Texas",2021-09-20,891103,1986
 MKC,McCormick & Company,reports,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",2003-03-20,63754,1889
-MXIM,Maxim Integrated,reports,Information Technology,Semiconductors,"San Jose, California",2018-12-03,743316,1983
 MCD,McDonald's,reports,Consumer Discretionary,Restaurants,"Chicago, Illinois",1970-06-30,63908,1940
 MCK,McKesson Corporation,reports,Health Care,Health Care Distributors,"Irving, Texas",,927653,1833
 MDT,Medtronic,reports,Health Care,Health Care Equipment,"Dublin, Ireland",1986-10-31,1613103,1949
@@ -343,7 +346,6 @@ NTRS,Northern Trust,reports,Financials,Asset Management & Custody Banks,"Chicago
 NOC,Northrop Grumman,reports,Industrials,Aerospace & Defense,"West Falls Church, Virginia",1985-06-30,1133421,"1994 (Northrop 1939, Grumman 1930)"
 NLOK,NortonLifeLock,reports,Information Technology,Application Software,"Tempe, Arizona",2003-03-25,849399,1982
 NCLH,Norwegian Cruise Line Holdings,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2017-10-13,1513761,2011 (1966)
-NOV,Nov,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2005-03-14,1021860,1841
 NRG,NRG Energy,reports,Utilities,Independent Power Producers & Energy Traders,"Houston, Texas",2010-01-29,1013871,1992
 NUE,Nucor,reports,Materials,Steel,"Charlotte, North Carolina",1985-04-30,73309,1940
 NVDA,Nvidia,reports,Information Technology,Semiconductors,"Santa Clara, California",2001-11-30,1045810,1993
@@ -368,7 +370,6 @@ PNR,Pentair,reports,Industrials,Industrial Machinery,"Worsley, England",2012-10-
 PBCT,People's United Financial,reports,Financials,Thrifts & Mortgage Finance,"Bridgeport, Connecticut",2008-11-13,1378946,1842
 PEP,PepsiCo,reports,Consumer Staples,Soft Drinks,"Purchase, New York",1957-03-04,77476,1898
 PKI,PerkinElmer,reports,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,31791,1937
-PRGO,Perrigo,reports,Health Care,Pharmaceuticals,"Dublin, Ireland",2011-12-19,1585364,2013 (1887)
 PFE,Pfizer,reports,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,78003,1849
 PM,Philip Morris International,reports,Consumer Staples,Tobacco,"New York City, New York",2008-03-31,1413329,2008 (1847)
 PSX,Phillips 66,reports,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012-05-01,1534701,2012 (1917)
@@ -464,7 +465,6 @@ UNH,UnitedHealth Group,reports,Health Care,Managed Health Care,"Minnetonka, Minn
 UPS,United Parcel Service,reports,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",2002-07-22,1090727,1907
 URI,United Rentals,reports,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",2014-09-20,1067701,1997
 UHS,Universal Health Services,reports,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",2014-09-20,352915,1979
-UNM,Unum Group,reports,Financials,Life & Health Insurance,"Chattanooga, Tennessee",1994-03-01,5513,1999
 VLO,Valero Energy,reports,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",,1035002,1980
 VTR,Ventas,reports,Real Estate,Health Care REITs,"Chicago, Illinois",2009-03-04,740260,1998
 VRSN,Verisign,reports,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",2006-02-01,1014473,1995
@@ -491,7 +491,7 @@ WST,West Pharmaceutical Services,reports,Health Care,Health Care Supplies,"Exton
 WDC,Western Digital,reports,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",2009-07-01,106040,1970
 WU,Western Union,reports,Information Technology,Data Processing & Outsourced Services,"Englewood, Colorado",2006-09-29,1365135,1851
 WRK,WestRock,reports,Materials,Paper Packaging,"Atlanta, Georgia",,1732845,2015
-WY,Weyerhaeuser,reports,Real Estate,Specialized REITs,"Federal Way, Washington",,106535,1900
+WY,Weyerhaeuser,reports,Real Estate,Specialized REITs,"Seattle, Washington",,106535,1900
 WHR,Whirlpool Corporation,reports,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",,106640,1911
 WMB,Williams Companies,reports,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,107263,1908
 WLTW,Willis Towers Watson,reports,Financials,Insurance Brokers,"London, England",2016-01-05,1140536,2016
