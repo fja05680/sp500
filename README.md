@@ -1,5 +1,3 @@
-### Take a look at my latest project, `Stock Market Calendar`: https://github.com/fja05680/stock_market_calendar 
-
 # sp500
 
 ##### Current List of S&P 500 companies retrieved from the Wikipedia: `sp500.csv` 
