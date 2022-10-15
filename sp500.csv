@@ -52,9 +52,9 @@ AJG,Arthur J. Gallagher & Co.,reports,Financials,Insurance Brokers,"Rolling Mead
 AIZ,Assurant,reports,Financials,Multi-line Insurance,"New York City, New York",2007-04-10,1267238,1892
 T,AT&T,reports,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983-11-30 (1957-03-04),732717,1983 (1885)
 ATO,Atmos Energy,reports,Utilities,Gas Utilities,"Dallas, Texas",2019-02-15,731802,1906
-ADSK,Autodesk,reports,Information Technology,Application Software,"San Rafael, California",1989-12-01,769397,1982
+ADSK,Autodesk,reports,Information Technology,Application Software,"San Francisco, California",1989-12-01,769397,1982
 AZO,AutoZone,reports,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1997-01-02,866787,1979
-AVB,AvalonBay Communities,reports,Real Estate,Residential REITs,"Arlington, Virginia[3]",2007-01-10,915912,1978
+AVB,AvalonBay Communities,reports,Real Estate,Residential REITs,"Arlington, Virginia",2007-01-10,915912,1978
 AVY,Avery Dennison,reports,Materials,Paper Packaging,"Glendale, California",1987-12-31,8818,1990
 BKR,Baker Hughes,reports,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017-07-07,1701605,2017
 BALL,Ball Corporation,reports,Materials,Metal & Glass Containers,"Broomfield, Colorado",1984-10-31,9389,1880
@@ -87,11 +87,11 @@ CPT,Camden Property Trust,reports,Real Estate,Residential REITs,"Houston, Texas"
 CPB,Campbell Soup Company,reports,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
 COF,Capital One,reports,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,927628,1994
 CAH,Cardinal Health,reports,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971
-KMX,CarMax,reports,Consumer Discretionary,Specialty Stores,"Richmond, Virginia",2010-06-28,1170010,1993
+KMX,CarMax,reports,Consumer Discretionary,Automotive Retail,"Richmond, Virginia",2010-06-28,1170010,1993
 CCL,Carnival,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,815097,1972
 CARR,Carrier Global,reports,Industrials,Building Products,"Palm Beach Gardens, Florida",2020-04-03,1783180,2020 (1915)
 CTLT,Catalent,reports,Health Care,Pharmaceuticals,"Somerset, New Jersey",2020-09-21,1596783,2007
-CAT,Caterpillar Inc.,reports,Industrials,Construction Machinery & Heavy Trucks,"Deerfield, Illinois",1957-03-04,18230,1925
+CAT,Caterpillar Inc.,reports,Industrials,Construction Machinery & Heavy Trucks,"Irving, Texas",1957-03-04,18230,1925
 CBOE,Cboe Global Markets,reports,Financials,Financial Exchanges & Data,"Chicago, Illinois",2017-03-01,1374310,1973
 CBRE,CBRE Group,reports,Real Estate,Real Estate Services,"Dallas, Texas",2006-11-10,1138118,1906
 CDW,CDW,reports,Information Technology,Technology Distributors,"Lincolnshire, Illinois",2019-09-23,1402057,1984
@@ -113,7 +113,6 @@ CTAS,Cintas,reports,Industrials,Diversified Support Services,"Mason, Ohio",2001-
 CSCO,Cisco,reports,Information Technology,Communications Equipment,"San Jose, California",1993-12-01,858877,1984
 C,Citigroup,reports,Financials,Diversified Banks,"New York City, New York",1988-05-31,831001,1998
 CFG,Citizens Financial Group,reports,Financials,Regional Banks,"Providence, Rhode Island",2016-01-29,759944,1828
-CTXS,Citrix,reports,Information Technology,Application Software,"Fort Lauderdale, Florida",1999-12-01,877890,1989
 CLX,Clorox,reports,Consumer Staples,Household Products,"Oakland, California",1969-03-31,21076,1913
 CME,CME Group,reports,Financials,Financial Exchanges & Data,"Chicago, Illinois",2006-08-11,1156375,1848
 CMS,CMS Energy,reports,Utilities,Multi-Utilities,"Jackson, Michigan",1999-05-03,811156,1886
@@ -130,7 +129,8 @@ CEG,Constellation Energy,reports,Utilities,Multi-Utilities,"Baltimore, Maryland"
 COO,CooperCompanies,reports,Health Care,Health Care Supplies,"San Ramon, California",2016-09-23,711404,1958
 CPRT,Copart,reports,Industrials,Diversified Support Services,"Dallas, Texas",2018-07-02,900075,1982
 GLW,Corning Inc.,reports,Information Technology,Electronic Components,"Corning, New York",,24741,1851
-CTVA,Corteva,reports,Materials,Fertilizers & Agricultural Chemicals,"Wilmington, Delaware",2019-06-03,1755672,2019
+CTVA,Corteva,reports,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",2019-06-03,1755672,2019
+CSGP,CoStar Group,reports,Industrials,Research & Consulting Services,"Washington, D.C.",2022-09-19,1057352,1987
 COST,Costco,reports,Consumer Staples,Hypermarkets & Super Centers,"Issaquah, Washington",1993-10-01,909832,1976
 CTRA,Coterra,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2008-06-23,858470,2021 (1989)
 CCI,Crown Castle,reports,Real Estate,Specialized REITs,"Houston, Texas",2012-03-14,1051470,1994
@@ -159,7 +159,6 @@ DOV,Dover Corporation,reports,Industrials,Industrial Machinery,"Downers Grove, I
 DOW,Dow Inc.,reports,Materials,Commodity Chemicals,"Midland, Michigan",2019-04-01,1751788,2019
 DTE,DTE Energy,reports,Utilities,Multi-Utilities,"Detroit, Michigan",1957-03-04,936340,1995
 DUK,Duke Energy,reports,Utilities,Electric Utilities,"Charlotte, North Carolina",1976-06-30,1326160,1904
-DRE,Duke Realty,reports,Real Estate,Industrial REITs,"Indianapolis, Indiana",2017-07-26,783280,1972
 DD,DuPont,reports,Materials,Specialty Chemicals,"Wilmington, Delaware",2019-04-02,1666700,2017
 DXC,DXC Technology,reports,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",2017-04-04,1688568,2017
 EMN,Eastman Chemical Company,reports,Materials,Diversified Chemicals,"Kingsport, Tennessee",1994-01-01,915389,1920
@@ -176,6 +175,7 @@ ENPH,Enphase,reports,Information Technology,Electronic Components,"Fremont, Cali
 ETR,Entergy,reports,Utilities,Electric Utilities,"New Orleans, Louisiana",1957-03-04,65984,1913
 EOG,EOG Resources,reports,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2000-11-02,821189,1999
 EPAM,EPAM Systems,reports,Information Technology,IT Consulting & Other Services,"Newtown, Pennsylvania",2021-12-14,1352010,1993
+EQT,EQT,reports,Energy,Oil & Gas Exploration & Production,"Pittsburgh, Pennsylvania",2022-10-03,33213,1888
 EFX,Equifax,reports,Industrials,Research & Consulting Services,"Atlanta, Georgia",1997-06-19,33185,1899
 EQIX,Equinix,reports,Real Estate,Specialized REITs,"Redwood City, California",2015-03-20,1101239,1998
 EQR,Equity Residential,reports,Real Estate,Residential REITs,"Chicago, Illinois",2001-12-03,906107,1969
@@ -257,11 +257,12 @@ IFF,International Flavors & Fragrances,reports,Materials,Specialty Chemicals,"Ne
 INTU,Intuit,reports,Information Technology,Application Software,"Mountain View, California",2000-12-05,896878,1983
 ISRG,Intuitive Surgical,reports,Health Care,Health Care Equipment,"Sunnyvale, California",2008-06-02,1035267,1995
 IVZ,Invesco,reports,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",2008-08-21,914208,1935
+INVH,Invitation Homes,reports,Real Estate,Residential REITs,"Dallas, Texas",2022-09-19,1687229,2012
 IQV,IQVIA,reports,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",2017-08-29,1478242,1982
 IRM,Iron Mountain,reports,Real Estate,Specialized REITs,"Boston, Massachusetts",2009-01-06,1020569,1951
 JBHT,J.B. Hunt,reports,Industrials,Trucking,"Lowell, Arkansas",2015-07-01,728535,1961
 JKHY,Jack Henry & Associates,reports,Information Technology,Data Processing & Outsourced Services,"Monett, Missouri",2018-11-13,779152,1976
-J,Jacobs Engineering Group,reports,Industrials,Construction & Engineering,"Dallas, Texas",2007-10-26,52988,1947
+J,Jacobs Solutions,reports,Industrials,Construction & Engineering,"Dallas, Texas",2007-10-26,52988,1947
 JNJ,Johnson & Johnson,reports,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1973-06-30,200406,1886
 JCI,Johnson Controls,reports,Industrials,Building Products,"Cork, Ireland",2010-08-27,833444,1885
 JPM,JPMorgan Chase,reports,Financials,Diversified Banks,"New York City, New York",1975-06-30,19617,2000 (1799 / 1871)
@@ -335,7 +336,6 @@ NEM,Newmont,reports,Materials,Gold,"Denver, Colorado",1969-06-30,1164727,1921
 NWSA,News Corp (Class A),reports,Communication Services,Publishing,"New York City, New York",2013-08-01,1564708,2013 (1980)
 NWS,News Corp (Class B),reports,Communication Services,Publishing,"New York City, New York",2015-09-18,1564708,2013 (1980)
 NEE,NextEra Energy,reports,Utilities,Multi-Utilities,"Juno Beach, Florida",1976-06-30,753308,1984 (1925)
-NLSN,Nielsen Holdings,reports,Industrials,Research & Consulting Services,"New York City, New York",2013-07-09,1492633,1923
 NKE,"Nike, Inc.",reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1988-11-30,320187,1964
 NI,NiSource,reports,Utilities,Multi-Utilities,"Merrillville, Indiana",,1111711,1912
 NDSN,Nordson Corporation,reports,Industrials,Industrial Machinery,"Westlake, Ohio",2022-02-15,72331,1935
@@ -365,11 +365,11 @@ PH,Parker Hannifin,reports,Industrials,Industrial Machinery,"Cleveland, Ohio",19
 PAYX,Paychex,reports,Information Technology,Data Processing & Outsourced Services,"Penfield, New York",,723531,1971
 PAYC,Paycom,reports,Information Technology,Application Software,"Oklahoma City, Oklahoma",2020-01-28,1590955,1998
 PYPL,PayPal,reports,Information Technology,Data Processing & Outsourced Services,"San Jose, California",2015-07-20,1633917,1998
-PENN,Penn Entertainment,reports,Consumer Discretionary,Casinos & Gaming,"Wyomissing, Pennsylvania",2021-03-22,921738,1972
 PNR,Pentair,reports,Industrials,Industrial Machinery,"Worsley, United Kingdom",2012-10-01,77360,1966
 PEP,PepsiCo,reports,Consumer Staples,Soft Drinks,"Purchase, New York",1957-03-04,77476,1898
 PKI,PerkinElmer,reports,Health Care,Health Care Equipment,"Waltham, Massachusetts",1985-05-31,31791,1937
 PFE,Pfizer,reports,Health Care,Pharmaceuticals,"New York City, New York",1957-03-04,78003,1849
+PCG,PG&E,reports,Utilities,Multi-Utilities,"San Francisco, California",2022-10-03,1004980,1905
 PM,Philip Morris International,reports,Consumer Staples,Tobacco,"New York City, New York",2008-03-31,1413329,2008 (1847)
 PSX,Phillips 66,reports,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012-05-01,1534701,2012 (1917)
 PNW,Pinnacle West,reports,Utilities,Multi-Utilities,"Phoenix, Arizona",,764622,1985
@@ -387,7 +387,6 @@ PEG,Public Service Enterprise Group,reports,Utilities,Electric Utilities,"Newark
 PTC,PTC,reports,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,857005,1985
 PSA,Public Storage,reports,Real Estate,Specialized REITs,"Glendale, California",2005-08-19,1393311,1972
 PHM,PulteGroup,reports,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,822416,1956
-PVH,PVH,reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2013-02-15,78239,1881
 QRVO,Qorvo,reports,Information Technology,Semiconductors,"Greensboro, North Carolina",2015-06-11,1604778,2015
 PWR,Quanta Services,reports,Industrials,Construction & Engineering,"Houston, Texas",2009-07-01,1050915,1997
 QCOM,Qualcomm,reports,Information Technology,Semiconductors,"San Diego, California",,804328,1985
@@ -404,7 +403,7 @@ RMD,ResMed,reports,Health Care,Health Care Equipment,"San Diego, California",201
 RHI,Robert Half,reports,Industrials,Human Resource & Employment Services,"Menlo Park, California",2000-12-05,315213,1948
 ROK,Rockwell Automation,reports,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",,1024478,1903
 ROL,"Rollins, Inc.",reports,Industrials,Environmental & Facilities Services,"Atlanta, Georgia",2018-10-01,84839,1948
-ROP,Roper Technologies,reports,Industrials,Industrial Conglomerates,"Sarasota, Florida",2009-12-23,882835,1981
+ROP,Roper Technologies,reports,Information Technology,Electronic Equipment & Instruments,"Sarasota, Florida",2009-12-23,882835,1981
 ROST,Ross Stores,reports,Consumer Discretionary,Apparel Retail,"Dublin, California",2009-12-21,745732,1982
 RCL,Royal Caribbean Group,reports,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2014-12-05,884887,1997
 SPGI,S&P Global,reports,Financials,Financial Exchanges & Data,"New York City, New York",,64040,1917
@@ -437,9 +436,10 @@ TMUS,T-Mobile US,reports,Communication Services,Wireless Telecommunication Servi
 TROW,T. Rowe Price,reports,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",,1113169,1937
 TTWO,Take-Two Interactive,reports,Communication Services,Interactive Home Entertainment,"New York City, New York",2018-03-19,946581,1993
 TPR,"Tapestry, Inc.",reports,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",,1116132,2017
+TRGP,Targa Resources,reports,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",2022-10-12,1389170,2005
 TGT,Target Corporation,reports,Consumer Discretionary,General Merchandise Stores,"Minneapolis, Minnesota",1976-12-31,27419,1902
 TEL,TE Connectivity,reports,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",2011-10-17,1385157,2007
-TDY,Teledyne Technologies,reports,Industrials,Aerospace & Defense,"Thousand Oaks, California",2020-06-22,1094285,1960
+TDY,Teledyne Technologies,reports,Information Technology,Electronic Equipment & Instruments,"Thousand Oaks, California",2020-06-22,1094285,1960
 TFX,Teleflex,reports,Health Care,Health Care Equipment,"Wayne, Pennsylvania",2019-01-18,96943,1943
 TER,Teradyne,reports,Information Technology,Semiconductor Equipment,"North Reading, Massachusetts",2020-09-21,97210,1960
 TSLA,"Tesla, Inc.",reports,Consumer Discretionary,Automobile Manufacturers,"Austin, Texas",2020-12-21,1318605,2003
