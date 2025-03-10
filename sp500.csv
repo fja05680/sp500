@@ -23,7 +23,6 @@ GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services
 MO,Altria,Consumer Staples,Tobacco,"Richmond, Virginia",1957-03-04,764180,1985
 AMZN,Amazon,Consumer Discretionary,Broadline Retail,"Seattle, Washington",2005-11-18,1018724,1994
 AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,"Warmley, Bristol, United Kingdom",2019-06-07,1748790,2019 (1860)
-AMTM,Amentum,Industrials,Diversified Support Services,"Chantilly, Virginia",2024-09-30,2011286,2020
 AEE,Ameren,Utilities,Multi-Utilities,"St. Louis, Missouri",1991-09-19,1002910,1902
 AEP,American Electric Power,Utilities,Electric Utilities,"Columbus, Ohio",1957-03-04,4904,1906
 AXP,American Express,Financials,Consumer Finance,"New York City, New York",1976-06-30,4962,1850
@@ -38,6 +37,7 @@ ADI,Analog Devices,Information Technology,Semiconductors,"Wilmington, Massachuse
 ANSS,Ansys,Information Technology,Application Software,"Canonsburg, Pennsylvania",2017-06-19,1013462,1969
 AON,Aon,Financials,Insurance Brokers,"London, UK",1996-04-23,315293,1982 (1919)
 APA,APA Corporation,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1997-07-28,1841666,1954
+APO,Apollo Global Management,Financials,Asset Management & Custody Banks,"New York City, New York",2024-12-23,1858681,1990
 AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1982-11-30,320193,1977
 AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,"Santa Clara, California",1995-03-16,6951,1967
 APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,"Dublin, Ireland",2012-12-24,1521332,1994
@@ -88,7 +88,6 @@ CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-
 KMX,CarMax,Consumer Discretionary,Automotive Retail,"Richmond, Virginia",2010-06-28,1170010,1993
 CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,815097,1972
 CARR,Carrier Global,Industrials,Building Products,"Palm Beach Gardens, Florida",2020-04-03,1783180,"2020 (1915, United Technologies spinoff)"
-CTLT,Catalent,Health Care,Pharmaceuticals,"Somerset, New Jersey",2020-09-21,1596783,2007
 CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",1957-03-04,18230,1925
 CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,"Chicago, Illinois",2017-03-01,1374310,1973
 CBRE,CBRE Group,Real Estate,Real Estate Services,"Dallas, Texas",2006-11-10,1138118,1906
@@ -288,6 +287,7 @@ LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,"Eagle, Idaho",2018-12-03
 LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",2019-10-03,1300514,1988
 LDOS,Leidos,Industrials,Diversified Support Services,"Reston, Virginia",2019-08-09,1336920,1969
 LEN,Lennar,Consumer Discretionary,Homebuilding,"Miami, Florida",2005-10-04,920760,1954
+LII,Lennox International,Industrials,Building Products,"Richardson, Texas",2024-12-23,1069202,1895
 LLY,Lilly (Eli),Health Care,Pharmaceuticals,"Indianapolis, Indiana",1970-12-31,59478,1876
 LIN,Linde plc,Materials,Industrial Gases,"Guildford, United Kingdom",1992-07-01,1707925,1879
 LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,"Beverly Hills, California",2019-12-23,1335258,2010
@@ -387,7 +387,6 @@ PEG,Public Service Enterprise Group,Utilities,Electric Utilities,"Newark, New Je
 PTC,PTC Inc.,Information Technology,Application Software,"Boston, Massachusetts",2021-04-20,857005,1985
 PSA,Public Storage,Real Estate,Self-Storage REITs,"Glendale, California",2005-08-19,1393311,1972
 PHM,PulteGroup,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1984-04-30,822416,1956
-QRVO,Qorvo,Information Technology,Semiconductors,"Greensboro, North Carolina",2015-06-11,1604778,2015
 PWR,Quanta Services,Industrials,Construction & Engineering,"Houston, Texas",2009-07-01,1050915,1997
 QCOM,Qualcomm,Information Technology,Semiconductors,"San Diego, California",1999-07-22,804328,1985
 DGX,Quest Diagnostics,Health Care,Health Care Services,"Secaucus, New Jersey",2002-12-12,1022079,1967
@@ -495,6 +494,7 @@ WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Perip
 WY,Weyerhaeuser,Real Estate,Timber REITs,"Seattle, Washington",1979-10-01,106535,1900
 WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1975-03-31,107263,1908
 WTW,Willis Towers Watson,Financials,Insurance Brokers,"London, United Kingdom",2016-01-05,1140536,2016
+WDAY,"Workday, Inc.",Information Technology,Application Software,"Pleasanton, California",2024-12-23,1327811,2005
 WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2008-11-14,1174922,2002
 XEL,Xcel Energy,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1957-03-04,72903,1909
 XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,"White Plains, New York",2011-11-01,1524472,2011
