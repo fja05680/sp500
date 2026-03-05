@@ -67,3 +67,4 @@ target/
 # ipython metadata
 .ipynb_checkpoints
 
+.vercel
