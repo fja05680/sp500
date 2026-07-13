@@ -82,7 +82,6 @@ BXP,"BXP, Inc.",Real Estate,Office REITs,"Boston, Massachusetts",2006-04-03,1037
 CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",2007-03-02,1043277,1905
 CDNS,Cadence Design Systems,Information Technology,Application Software,"San Jose, California",2017-09-18,813672,1988
 CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,"Houston, Texas",2022-04-04,906345,1981
-CPB,Campbell's Company (The),Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1957-03-04,16732,1869
 COF,Capital One,Financials,Consumer Finance,"Tysons Corner, Virginia",1998-07-01,927628,1994
 CAH,Cardinal Health,Health Care,Health Care Distributors,"Dublin, Ohio",1997-05-27,721371,1971
 CCL,Carnival Corporation,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1998-12-22,815097,1972
@@ -121,7 +120,6 @@ COIN,Coinbase,Financials,Financial Exchanges & Data,"New York City, New York",20
 CL,Colgate-Palmolive,Consumer Staples,Household Products,"New York City, New York",1957-03-04,21665,1806
 CMCSA,Comcast,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",2002-11-19,1166691,1963
 FIX,Comfort Systems USA,Industrials,Construction & Engineering,"Houston, Texas",2025-12-22,1035983,1997
-CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1983-08-31,23217,1919
 COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1957-03-04,1163165,2002
 ED,Consolidated Edison,Utilities,Multi-Utilities,"New York City, New York",1957-03-04,1047862,1823
 STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,"Rochester, New York",2005-07-01,16918,1945
@@ -164,7 +162,7 @@ DUK,Duke Energy,Utilities,Electric Utilities,"Charlotte, North Carolina",1976-06
 DD,DuPont,Materials,Specialty Chemicals,"Wilmington, Delaware",2019-06-03,1666700,2017 (1802)
 ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,"Dublin, Ireland",1957-03-04,1551182,1911
 EBAY,eBay Inc.,Consumer Discretionary,Broadline Retail,"San Jose, California",2002-07-22,1065088,1995
-SATS,EchoStar,Communication Services,Wireless Telecommunication Services,"Englewood, Colorado",2026-03-23,1415404,2008
+ECHO,EchoStar,Communication Services,Wireless Telecommunication Services,"Englewood, Colorado",2026-03-23,1415404,2008
 ECL,Ecolab,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1989-01-31,31462,1923
 EIX,Edison International,Utilities,Electric Utilities,"Rosemead, California",1957-03-04,827052,1886
 EW,Edwards Lifesciences,Health Care,Health Care Equipment,"Irvine, California",2011-04-01,1099800,1958
@@ -202,6 +200,7 @@ FITB,Fifth Third Bancorp,Financials,Regional Banks,"Cincinnati, Ohio",1996-03-29
 FSLR,First Solar,Information Technology,Semiconductors,"Tempe, Arizona",2022-12-19,1274494,1999
 FE,FirstEnergy,Utilities,Electric Utilities,"Akron, Ohio",1997-11-28,1031296,1997
 FISV,Fiserv,Financials,Transaction & Payment Processing Services,"Brookfield, Wisconsin",2001-04-02,798354,1984
+FLEX,Flex Ltd.,Information Technology,Electronic Manufacturing Services,"Austin, Texas",2026-06-22,866374,1969
 F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1957-03-04,37996,1903
 FTNT,Fortinet,Information Technology,Systems Software,"Sunnyvale, California",2018-10-11,1262039,2000
 FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,"Everett, Washington",2016-07-01,1659166,2016
@@ -215,7 +214,7 @@ GE,GE Aerospace,Industrials,Aerospace & Defense,"Evendale, Ohio",1957-03-04,4054
 GEHC,GE HealthCare,Health Care,Health Care Equipment,"Chicago, Illinois",2023-01-04,1932393,1994
 GEV,GE Vernova,Industrials,Heavy Electrical Equipment,"Cambridge, Massachusetts",2024-04-02,1996810,2024
 GEN,Gen Digital,Information Technology,Systems Software,"Tempe, Arizona",2003-03-25,849399,1982
-GNRC,Generac,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",2021-03-22,1474735,1959
+GNRC,Generac,Industrials,Heavy Electrical Equipment,"Waukesha, Wisconsin",2021-03-22,1474735,1959
 GD,General Dynamics,Industrials,Aerospace & Defense,"Reston, Virginia",1957-03-04,40533,1899
 GIS,General Mills,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1957-03-04,40704,1856
 GM,General Motors,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",2013-06-06,1467858,1908
@@ -235,7 +234,8 @@ HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,"Hershey, Penn
 HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015-11-02,1645590,2015
 HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",2017-06-19,1585689,1919
 HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1988-03-31,354950,1978
-HON,Honeywell,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1957-03-04,773840,1906
+HONA,Honeywell Aerospace,Industrials,Aerospace & Defense,"Phoenix, Arizona",2026-06-29,2089271,1914
+HON,Honeywell Technologies,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1957-03-04,773840,1906
 HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",2009-03-04,48465,1891
 HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",2007-03-20,1070750,1993
 HWM,Howmet Aerospace,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",2016-10-21,4281,1888
@@ -301,6 +301,7 @@ MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,"Findlay, Ohio",201
 MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",1998-05-29,1048286,1927
 MRSH,Marsh McLennan,Financials,Insurance Brokers,"New York City, New York",1987-08-31,62709,1905
 MLM,Martin Marietta Materials,Materials,Construction Materials,"Raleigh, North Carolina",2014-07-02,916076,1993
+MRVL,Marvell Technology,Information Technology,Semiconductors,"Santa Clara, California",2026-06-22,1835632,1995
 MAS,Masco,Industrials,Building Products,"Livonia, Michigan",1981-06-30,62996,1929
 MA,Mastercard,Financials,Transaction & Payment Processing Services,"Harrison, New York",2008-07-18,1141391,1966
 MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",2003-03-20,63754,1889
@@ -369,7 +370,6 @@ PM,Philip Morris International,Consumer Staples,Tobacco,"New York City, New York
 PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012-05-01,1534701,2012 (1917)
 PNW,Pinnacle West Capital,Utilities,Multi-Utilities,"Phoenix, Arizona",1999-10-04,764622,1985
 PNC,PNC Financial Services,Financials,Diversified Banks,"Pittsburgh, Pennsylvania",1988-04-30,713676,1845
-POOL,Pool Corporation,Consumer Discretionary,Distributors,"Covington, Louisiana",2020-10-07,945841,1993
 PPG,PPG Industries,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",1957-03-04,79879,1883
 PPL,PPL Corporation,Utilities,Electric Utilities,"Allentown, Pennsylvania",2001-10-01,922224,1920
 PFG,Principal Financial Group,Financials,Life & Health Insurance,"Des Moines, Iowa",2002-07-22,1126328,1879
